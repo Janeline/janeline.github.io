@@ -387,7 +387,7 @@ h2.roles {
 	margin-bottom: 22px;
 }
 
-.diamond-border{  
+.diamond-border{
 	width: 90%;
 	height: 90%;
 	border: 2px solid #222;
@@ -436,7 +436,7 @@ h2.roles {
 #testimonials{
 	padding-top: 175px;
 	padding-bottom: 0;
-	background: url(../img/background.jpg) rgba(34,34,34,1);
+	background: url(../img/background-01.jpg) rgba(34,34,34,1);
 	color: #fff;
 	background-size: cover;
 	background-attachment: fixed;
@@ -764,7 +764,7 @@ h4.organisation {
 
 h4.organisation {
     margin-top: 30px;
-	padding-top: 10px;	
+	padding-top: 10px;
 }
 .organisation:before{
 	background: none repeat scroll 0 0 #ddd;
@@ -972,7 +972,7 @@ h4.organisation {
 	color: #444;
 	transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg); /* IE 9 */
-	-webkit-transform: rotate(-45deg); /* Safari and Chrome */	
+	-webkit-transform: rotate(-45deg); /* Safari and Chrome */
 }
 
 .post-info {
@@ -1005,16 +1005,16 @@ blockquote {
 }
 .social-row.share .btn {
   padding: 0 10px;
-  background: none; 
+  background: none;
 }
 .social-row.share .btn i{
-  color: #222; 
+  color: #222;
 }
 .social-row.share .btn:hover {
-  background: #222; 
+  background: #222;
 }
 .social-row.share .btn:hover i{
-  color: #fff; 
+  color: #fff;
 }
 #comments {
   margin-bottom: 50px;
@@ -1123,11 +1123,11 @@ blockquote {
 }
 .single-post-footer  {
   background: #f7f7f7;
-  padding: 75px 0;  
+  padding: 75px 0;
   margin-top: 75px;
   margin-bottom: 75px;
 }
-.single-post-footer .newsletter-box #notifyMe { 
+.single-post-footer .newsletter-box #notifyMe {
   width: 80%;
   margin: auto;
 }
@@ -1325,7 +1325,7 @@ blockquote {
 	#menu{ float: none; }
 	h3.period,h4.organisation {float: left;clear: both;}
 	.organisation:before{left: 20px;}
-	
+
     .single-post-footer .newsletter-box { display: block;clear: both;padding-top: 75px;}
 }
 
@@ -1348,8 +1348,8 @@ blockquote {
 }
 
 /************* TABLETS (portrait and landscape) ************/
-@media only screen 
-and (min-device-width : 768px) 
+@media only screen
+and (min-device-width : 768px)
 and (max-device-width : 1024px) {
 
 	#home-slider .slides li{ background-attachment: scroll !important; }
@@ -1361,9 +1361,9 @@ and (max-device-width : 1024px) {
 
 
 /*********** TABLETS (portrait) ************/
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
 and (orientation : portrait) {
 
 	#home-slider .display-h{ font-size: 45px; }
